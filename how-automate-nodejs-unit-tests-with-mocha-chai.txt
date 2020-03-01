@@ -33,8 +33,3 @@ If you change/update remote origin URL:
 
 git remote set-url origin https://github.com/KarRana/MyNoteJsProject.git
 
-
-ccac as sa asd asd sa das dsadas
- sa dsa d asd as as dd
-ss dsad
-
