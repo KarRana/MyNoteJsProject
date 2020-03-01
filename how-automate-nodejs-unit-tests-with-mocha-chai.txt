@@ -12,3 +12,29 @@ install git on windows for Version control :
 
 2) https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 install git on other OS for Version control :
+
+
+git config --global user.email rana_kar@rediffmail.com
+
+git config --global user.name Rana
+
+3) Create a repository in the github and run following comments 
+https://github.com/KarRana/MyNoteJsProject.git
+
+git init
+echo 'node_modules' > .gitignore
+git add *
+git commit -m 'my first commit'
+
+git remote add origin https://github.com/your/repository 
+git push -u origin master  || git push -u origin all
+
+If you change/update remote origin URL:
+
+git remote set-url origin https://github.com/KarRana/MyNoteJsProject.git
+
+
+ccac as sa asd asd sa das dsadas
+ sa dsa d asd as as dd
+ss dsad
+
